@@ -112,7 +112,9 @@ A demo account is created automatically for testing:
 This account is for local demonstration only.
 
 ##
--<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/8bcc581a-f10e-43ac-81da-4b117a70d531" />
+- <img width="954" height="321" alt="image" src="https://github.com/user-attachments/assets/8f2ad3ea-a44b-4362-aa56-e66fcd90c26f" />
+
+
 
 
 ## Author
